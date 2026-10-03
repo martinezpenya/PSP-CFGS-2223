@@ -142,4 +142,3 @@ La entrega del documento se realizará al menos 10 días antes de la fecha del e
   - https://github.com/joseluisgs
   - https://github.com/oscarnovillo/dam2_2122
   - https://github.com/PacoPortillo/DAM_PSP_Tarea02_La-Cena-de-los-Filosofos
-

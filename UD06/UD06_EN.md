@@ -381,7 +381,7 @@ For its part, secure communications based on the HTTP protocol must use the HTTP
 
 In order to use SSL-based communications, a digital certificate is required.
 
-Obtaining a certificate recognized as valid must be provided by a certification authority (CA). Alternatively, a tool called keytoo! is provided with the Java JDK. that allows you to create a digital certificate from a terminal.
+Obtaining a certificate recognized as valid must be provided by a certification authority (CA). Alternatively, a tool called keytool is provided with the Java JDK. that allows you to create a digital certificate from a terminal.
 
 The syntax to create a digital certificate with keytool is the following:
 
